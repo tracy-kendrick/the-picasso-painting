@@ -1,0 +1,33 @@
+.flexbox{
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    position: relative;
+    width: 20%;
+    height: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #ddd;
+  border-radius: 4px; 
+}
+
+form input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+form textarea{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+body {
+    background-image: url('https://wallpapers.com/images/featured/5zg9l3tzlctx5mxx.jpg');
+  }
+  
+ .gif{
+    z-index: 25;
+ }
+ .everything{
+    position: relative;
+ }
